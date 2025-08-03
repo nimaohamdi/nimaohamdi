@@ -50,13 +50,16 @@
 - **Cloud Platforms:** AWS, Azure  
 
 ---
-
 ## 🏆 Achievements & Certifications
 
-- Coursera Machine Learning Certification  
-- Google Cybersecurity Challenge Participant  
-- Winner of XYZ Hackathon 2024  
-- AWS Certified Solutions Architect – Associate (in progress)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Programming-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming Certificate" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Certified-FF6F61?style=for-the-badge&logo=opencv&logoColor=white" alt="AI Certificate" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="ML Coursera Certificate" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-Challenge-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Challenge" />
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-2024-4CAF50?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Winner" />
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification" />
+</p>
 
 ---
 
