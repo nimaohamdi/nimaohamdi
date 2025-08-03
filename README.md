@@ -6,6 +6,12 @@
 
 ---
 
+## 💬 Status
+
+🎯 Coding my way to smarter solutions | 🐍 Python Lover | 🤖 Building AI & Cybersecurity Projects
+
+---
+
 ## 🧠 About Me
 
 - 👨‍🎓 Computer Engineering Student  
