@@ -18,7 +18,7 @@
 
 ## ⚒️ Tech Stack & Skills
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -43,11 +43,23 @@
 
 ## 📬 Connect with Me
 
-- 📧 Email: nimaohamdi.dev@gmail.com  
-- 🌐 Website: [jstnimo.digital](https://www.jstnimo.digital)  
-- 💼 LinkedIn: [linkedin.com/in/nima-hamdi](https://www.linkedin.com/in/nima-hamdi-437b77246)  
-- 📱 Instagram: [@jstnimo](https://www.instagram.com/jstnimo/)  
-- 💬 Telegram: [@niymahamdii](https://t.me/niymahamdii)  
+<p align="center">
+  <a href="mailto:nimaohamdi.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.jstnimo.digital" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nima-hamdi-437b77246" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/jstnimo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/niymahamdii" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
