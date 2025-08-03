@@ -68,7 +68,6 @@
 ---
 ## 🏆 Achievements & Certifications
 
-👨🏻‍💻💻, [8/3/2025 2:00 PM]
 <p align="center">
   <img src="https://img.shields.io/badge/Python%20Programming-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming Certificate" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Certified-FF6F61?style=for-the-badge&logo=opencv&logoColor=white" alt="AI Certificate" />
