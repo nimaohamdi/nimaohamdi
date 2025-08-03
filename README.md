@@ -32,7 +32,31 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 </p>
+
+---
+
+## 🛠️ Tools & Environments
+
+- **Editors & IDEs:** VS Code, PyCharm  
+- **Operating Systems:** Ubuntu, Windows  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **Databases:** PostgreSQL, SQLite  
+- **Cloud Platforms:** AWS, Azure  
+
+---
+
+## 🏆 Achievements & Certifications
+
+- Coursera Machine Learning Certification  
+- Google Cybersecurity Challenge Participant  
+- Winner of XYZ Hackathon 2024  
+- AWS Certified Solutions Architect – Associate (in progress)  
 
 ---
 
