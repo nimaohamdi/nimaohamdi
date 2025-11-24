@@ -40,32 +40,31 @@
 
 ---
 
-## 🛠 Tools & Environments
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 | Project | Description |
 |---|---|
-| [Fitness Microservice](https://github.com/nimaohamdi/fitness-microservice) | Microservice architecture for fitness tracking and workout management. |
-| [fMRI ADHD Autoencoder](https://github.com/nimaohamdi/fmri-adhd-autoencoder) | Autoencoder-based analysis on fMRI data for ADHD patterns. |
-| [MATLAB FaceTracker](https://github.com/nimaohamdi/MATLAB-FaceTracker) | Real-time face tracking using MATLAB. |
-| [MNIST K-NN](https://github.com/nimaohamdi/mnist-knn) | K-Nearest Neighbors classifier applied to the MNIST dataset. |
-| [Object Detection](https://github.com/nimaohamdi/Object-Detection) | Implementation of object detection models for image recognition. |
+| [Fitness Microservice](https://github.com/nimaohamdi/fitness-microservice) | Microservice architecture for fitness tracking and workout management. ![GitHub Repo Size](https://img.shields.io/github/repo-size/nimaohamdi/fitness-microservice?style=flat-square) |
+| [fMRI ADHD Autoencoder](https://github.com/nimaohamdi/fmri-adhd-autoencoder) | Autoencoder-based analysis on fMRI data for ADHD patterns. ![Stars](https://img.shields.io/github/stars/nimaohamdi/fmri-adhd-autoencoder?style=flat-square) |
+| [MATLAB FaceTracker](https://github.com/nimaohamdi/MATLAB-FaceTracker) | Real-time face tracking using MATLAB. ![Forks](https://img.shields.io/github/forks/nimaohamdi/MATLAB-FaceTracker?style=flat-square) |
+| [MNIST K-NN](https://github.com/nimaohamdi/mnist-knn) | K-Nearest Neighbors classifier applied to the MNIST dataset. ![Issues](https://img.shields.io/github/issues/nimaohamdi/mnist-knn?style=flat-square) |
+| [Object Detection](https://github.com/nimaohamdi/Object-Detection) | Implementation of object detection models for image recognition. ![Last Commit](https://img.shields.io/github/last-commit/nimaohamdi/Object-Detection?style=flat-square) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimaohamdi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimaohamdi&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimaohamdi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -91,4 +90,4 @@
 
 ---
 
-⭐️ If you like what I do, feel free to star or fork my projects!
+⭐️ Star my projects and follow me to stay updated with my latest work! 🚀
