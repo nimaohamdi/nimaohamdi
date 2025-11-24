@@ -7,13 +7,11 @@
 ---
 
 ## 💬 Status
-
 🚀 Coding smarter solutions | 🐍 Python Lover | 🤖 AI & Cybersecurity Projects
 
 ---
 
 ## 🧠 About Me
-
 - 👨‍🎓 Computer Engineering Student  
 - 🐍 Python Developer | Building smart apps & AI tools  
 - 🛡 Cybersecurity & AI Enthusiast  
@@ -22,7 +20,6 @@
 ---
 
 ## ⚒️ Tech Stack & Skills
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -41,19 +38,31 @@
 ---
 
 ## 🏆 Featured Projects
+<p align="center">
+  <a href="https://github.com/nimaohamdi/fitness-microservice">
+    <img src="https://media.giphy.com/media/3o6ZsX72bPLOi9v2h2/giphy.gif" width="150" title="Fitness Microservice" />
+  </a>
+  <a href="https://github.com/nimaohamdi/fmri-adhd-autoencoder">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" title="fMRI ADHD Autoencoder" />
+  </a>
+  <a href="https://github.com/nimaohamdi/MATLAB-FaceTracker">
+    <img src="https://media.giphy.com/media/xT1R9ZYlL7v5r8b5kk/giphy.gif" width="150" title="MATLAB FaceTracker" />
+  </a>
+  <a href="https://github.com/nimaohamdi/mnist-knn">
+    <img src="https://media.giphy.com/media/3o7TKxAaFc3ZQmH4x2/giphy.gif" width="150" title="MNIST K-NN" />
+  </a>
+  <a href="https://github.com/nimaohamdi/Object-Detection">
+    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="150" title="Object Detection" />
+  </a>
+</p>
 
-| Project | Description |
-|---|---|
-| [Fitness Microservice](https://github.com/nimaohamdi/fitness-microservice) | Microservice architecture for fitness tracking and workout management. ![GitHub Repo Size](https://img.shields.io/github/repo-size/nimaohamdi/fitness-microservice?style=flat-square) |
-| [fMRI ADHD Autoencoder](https://github.com/nimaohamdi/fmri-adhd-autoencoder) | Autoencoder-based analysis on fMRI data for ADHD patterns. ![Stars](https://img.shields.io/github/stars/nimaohamdi/fmri-adhd-autoencoder?style=flat-square) |
-| [MATLAB FaceTracker](https://github.com/nimaohamdi/MATLAB-FaceTracker) | Real-time face tracking using MATLAB. ![Forks](https://img.shields.io/github/forks/nimaohamdi/MATLAB-FaceTracker?style=flat-square) |
-| [MNIST K-NN](https://github.com/nimaohamdi/mnist-knn) | K-Nearest Neighbors classifier applied to the MNIST dataset. ![Issues](https://img.shields.io/github/issues/nimaohamdi/mnist-knn?style=flat-square) |
-| [Object Detection](https://github.com/nimaohamdi/Object-Detection) | Implementation of object detection models for image recognition. ![Last Commit](https://img.shields.io/github/last-commit/nimaohamdi/Object-Detection?style=flat-square) |
+<p align="center">
+  Hover over each project to see the demo! 🎯
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nimaohamdi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
@@ -69,7 +78,6 @@
 ---
 
 ## 📬 Connect with Me
-
 <p align="center">
   <a href="mailto:nimaohamdi.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
