@@ -1,24 +1,23 @@
 <h1 align="center">Hi there! I'm Nima 👋</h1>
 
 <p align="center">
-  💻 Developer | Cybersecurity Enthusiast | AI Explorer
+  💻 Developer | 🛡 Cybersecurity Enthusiast | 🤖 AI Explorer
 </p>
 
 ---
 
 ## 💬 Status
 
-🎯 Coding my way to smarter solutions | 🐍 Python Lover | 🤖 Building AI & Cybersecurity Projects
+🚀 Coding smarter solutions | 🐍 Python Lover | 🤖 AI & Cybersecurity Projects
 
 ---
 
 ## 🧠 About Me
 
 - 👨‍🎓 Computer Engineering Student  
-- 🐍 Passionate Python Developer  
-- 🛡 Interested in Cybersecurity & Artificial Intelligence  
-- 🌐 Building practical tools and modern applications  
-- 🤖 Love creating bots, smart systems, and AI-based projects  
+- 🐍 Python Developer | Building smart apps & AI tools  
+- 🛡 Cybersecurity & AI Enthusiast  
+- 🤖 Creator of bots, smart systems, and practical applications  
 
 ---
 
@@ -44,65 +43,29 @@
 ## 🛠 Tools & Environments
 
 <p align="center">
-  <!-- Editors & IDEs -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-
-  <!-- Operating Systems -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-
-  <!-- Containers & Orchestration -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-
-  <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
 ---
-## 🏆 Achievements & Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%20Programming-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming Certificate" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Certified-FF6F61?style=for-the-badge&logo=opencv&logoColor=white" alt="AI Certificate" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="ML Coursera Certificate" />
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-Challenge-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Challenge" />
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-2024-4CAF50?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Winner" />
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🏆 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| [🎯 AI-Face](https://github.com/nimaohamdi/AI-Face) | Face detection using AI techniques |
-| [✅ To-Do List App](https://github.com/nimaohamdi/To-Do-List-App) | A simple and clean to-do list application |
-| [📱 Phone Info](https://github.com/nimaohamdi/Phone-info) | Mobile hardware info viewer |
-| [🌦 Weather Widget](https://github.com/nimaohamdi/weather-widget) | A minimal weather widget with UI |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimaohamdi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimaohamdi&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimaohamdi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+|---|---|
+| [Fitness Microservice](https://github.com/nimaohamdi/fitness-microservice) | Microservice architecture for fitness tracking and workout management. |
+| [fMRI ADHD Autoencoder](https://github.com/nimaohamdi/fmri-adhd-autoencoder) | Autoencoder-based analysis on fMRI data for ADHD patterns. |
+| [MATLAB FaceTracker](https://github.com/nimaohamdi/MATLAB-FaceTracker) | Real-time face tracking using MATLAB. |
+| [MNIST K-NN](https://github.com/nimaohamdi/mnist-knn) | K-Nearest Neighbors classifier applied to the MNIST dataset. |
+| [Object Detection](https://github.com/nimaohamdi/Object-Detection) | Implementation of object detection models for image recognition. |
 
 ---
 
@@ -113,7 +76,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.jstnimo.digital" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/nima-hamdi-437b77246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -128,4 +91,4 @@
 
 ---
 
-⭐️ If you find my work interesting, feel free to star, fork, or follow 🙌
+⭐️ If you like what I do, feel free to star or fork my projects!
