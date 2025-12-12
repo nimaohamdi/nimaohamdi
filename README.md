@@ -1,21 +1,21 @@
 <h1 align="center">Hi there! I'm Nima 👋</h1>
 
 <p align="center">
-  💻 Developer | 🛡 Cybersecurity Enthusiast | 🤖 AI Explorer
+  💻 Developer | 🛡 Cybersecurity Enthusiast | 🤖 AI & .NET Explorer
 </p>
 
 ---
 
 ## 💬 Status
 
-🚀 Coding smarter solutions | 🐍 Python Lover | 🤖 AI & Cybersecurity Projects
+🚀 Coding smarter solutions | 🐍 Python Lover | 🤖 AI, Cybersecurity & .NET Projects
 
 ---
 
 ## 🧠 About Me
 
 - 👨‍🎓 Computer Engineering Student  
-- 🐍 Python Developer | Building smart apps & AI tools  
+- 🐍 Python & C# Developer | Building smart apps, AI tools & .NET solutions  
 - 🛡 Cybersecurity & AI Enthusiast  
 - 🤖 Creator of bots, smart systems, and practical applications  
 
@@ -26,7 +26,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-F16624?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -35,7 +39,10 @@
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WinForms-239120?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -44,11 +51,10 @@
 
 | Project | Description |
 |---|---|
-| [Fitness Microservice](https://github.com/nimaohamdi/fitness-microservice) | Microservice architecture for fitness tracking and workout management. ![GitHub Repo Size](https://img.shields.io/github/repo-size/nimaohamdi/fitness-microservice?style=flat-square) |
-| [fMRI ADHD Autoencoder](https://github.com/nimaohamdi/fmri-adhd-autoencoder) | Autoencoder-based analysis on fMRI data for ADHD patterns. ![Stars](https://img.shields.io/github/stars/nimaohamdi/fmri-adhd-autoencoder?style=flat-square) |
-| [MATLAB FaceTracker](https://github.com/nimaohamdi/MATLAB-FaceTracker) | Real-time face tracking using MATLAB. ![Forks](https://img.shields.io/github/forks/nimaohamdi/MATLAB-FaceTracker?style=flat-square) |
-| [MNIST K-NN](https://github.com/nimaohamdi/mnist-knn) | K-Nearest Neighbors classifier applied to the MNIST dataset. ![Issues](https://img.shields.io/github/issues/nimaohamdi/mnist-knn?style=flat-square) |
-| [Object Detection](https://github.com/nimaohamdi/Object-Detection) | Implementation of object detection models for image recognition. ![Last Commit](https://img.shields.io/github/last-commit/nimaohamdi/Object-Detection?style=flat-square) |
+| [Library Management System](https://github.com/nimaohamdi/LibraryManagementSystem) | C# WinForms app to manage books, users, and transactions. Docker-ready. ![Repo Size](https://img.shields.io/github/repo-size/nimaohamdi/LibraryManagementSystem?style=flat-square) |
+| [Expense Tracker](https://github.com/nimaohamdi/ExpenseTracker) | Track income & expenses with C# WinForms and SQLite. Docker-enabled. ![Stars](https://img.shields.io/github/stars/nimaohamdi/ExpenseTracker?style=flat-square) |
+| [Hotel Reservation System](https://github.com/nimaohamdi/HotelReservation) | Manage rooms, reservations, and occupancy with C#, WinForms & Docker. ![Forks](https://img.shields.io/github/forks/nimaohamdi/HotelReservation?style=flat-square) |
+| [Simple ChatBot](https://github.com/nimaohamdi/SimpleChatBot) | C# WinForms chatbot with SQLite DB and Docker support. ![Issues](https://img.shields.io/github/issues/nimaohamdi/SimpleChatBot?style=flat-square) |
 
 ---
 
