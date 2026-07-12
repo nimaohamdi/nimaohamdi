@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nima Hamdi</h1>
 
 <h3 align="center">
-💻 Software Developer • 🤖 AI Engineer • 🛡 Cybersecurity Enthusiast • 🇮🇷 Iran
+💻 Software Developer • 🤖 AI Engineer • 🛡 Cybersecurity Enthusiast •
 </h3>
 
 <p align="center">
-<a href="https://www.jstnimo.digital">
+<a href="https://www.jstnimo.top">
 <img src="https://img.shields.io/badge/Website-Visit-black?style=for-the-badge&logo=About.me"/>
 </a>
 
@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:nimaohamdi.dev@gmail.com">
+<a href="mailto:nima.jozhamdi@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://t.me/niymahamdii">
+<a href="https://t.me/tjelstnimo">
 <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 </p>
@@ -148,7 +148,7 @@ Restaurant ordering and management system.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:nimaohamdi.dev@gmail.com">
+<a href="mailto:nimaa.jozhamdi@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -156,11 +156,11 @@ Restaurant ordering and management system.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://t.me/niymahamdii">
+<a href="https://t.me/thejstnimo">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
 </a>
 
-<a href="https://www.jstnimo.digital">
+<a href="https://www.jstnimo.top">
 <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me"/>
 </a>
 
